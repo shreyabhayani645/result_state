@@ -1,0 +1,55 @@
+.App {
+  text-align: center;
+  padding:10px;
+  background-color: #c7a5d1;
+  font-size: 20px;
+}
+table
+{
+  border: 3px solid rgb(0, 0, 0);
+  margin-top: 20px;
+}
+td
+{
+  border: 2px solid rgb(0, 0, 0);
+  padding: 5px 20px;
+}
+input
+{
+  padding: 10px 10px;
+  padding-right: 40px;
+  border: 2px solid black;
+  margin: 2px;
+}
+.blank
+{
+  border: none;
+}
+.btn
+{
+  border: 2px solid black;
+  font-weight: 600;
+  font-size: 20px;
+  padding-left: 40px;
+  background-color: #c560e4;
+}
+.tr>td
+{
+    padding: 5px;
+}
+select
+{
+  margin-left: 10px;
+  padding: 5px 10px;
+}
+.all
+{
+  margin-left: 10px;
+  padding: 5px 10px;
+  background-color: #c560e4;
+}
+.result
+{
+  margin-right: 500px;
+  margin-top: 20px;
+}
